@@ -14,8 +14,6 @@ public class CalculatorGUI {
         createGUI();
     }
 
-    
-
     private void createGUI() {
         frame = new JFrame("Calculator");
         frame.setSize(300, 300);
